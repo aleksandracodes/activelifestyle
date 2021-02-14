@@ -157,7 +157,7 @@ a.cta.top:hover, button.cta.top:hover {
   height: 40px;
   margin-left: 25px;
   padding-top: 5px;
-  background: url(img/navbarlogo.PNG) no-repeat 0 0;
+  background: url(img/navbarlogo.png) no-repeat 0 0;
   background-size: 80%;
   height: 100%;
   width: 100px;
@@ -293,7 +293,7 @@ a.cta.top:hover, button.cta.top:hover {
   position: absolute;
   width: 50px;
   height: 50px;
-  background: url(img/confetti.PNG) no-repeat 0 0;
+  background: url(img/confetti.png) no-repeat 0 0;
   background-size: 100%;
   bottom: 5px;
   left: 50%;
@@ -386,7 +386,7 @@ footer a {
 .popup .close {
   width: 80px;
   height: 80px;
-  background: url(img/close.PNG) no-repeat center center;
+  background: url(img/close.png) no-repeat center center;
   position: absolute;
   top: 0px;
   right: 0px;
