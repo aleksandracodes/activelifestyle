@@ -526,7 +526,8 @@ footer a {
 
   @media (max-width: 840px) {
     .exercise2 {
-      top: 420px;
+      top: 400px;
+      right: 0;
       background-size: 80% !important;
     }
   }
